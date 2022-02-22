@@ -1,0 +1,43 @@
+.ui.borderless.menu {
+  background-color: rgba(0,0,0,.2);
+  box-shadow: none;
+  border: none;
+  margin: auto;
+}
+
+.top-image {
+  margin-top: 10px;
+}
+.ui.right.text.menu {
+  color: #b7b7b7;
+}
+
+body {
+  font-family: Lato, SansSerif;
+  font-size: 14px;
+}
+
+.cover {
+  width: auto;
+  height: 100%;
+}
+
+.footer {
+  background-color: #212121;
+  margin: auto;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  color: white;
+  font-family: Lato, SansSerif;
+}
+
+.foot {
+  padding-left: 50px;
+  color: white;
+}
+
+
+.ref {
+  color: white;
+}
+
