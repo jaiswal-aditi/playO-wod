@@ -18,11 +18,6 @@ body {
   font-size: 14px;
 }
 
-.cover {
-  width: auto;
-  height: 100%;
-}
-
 .footer {
   background-color: #212121;
   margin: auto;
@@ -32,15 +27,15 @@ body {
   font-family: Lato, SansSerif;
 }
 
-.foot {
-  padding-left: 40px;
+.playo-background {
+  background-image: url("https://playo-website.gumlet.net/playo/play-sample2.jpg?auto=compress,format");
+  background-size: cover;
+  height: 100%;
+}
+
+.ui.list>a.item.white {
   color: white;
 }
 
-.playo-background {
-  background: url('https://playo-website.gumlet.net/playo/play-sample2.jpg?auto=compress,format') no-repeat center center fixed;
-  background-size: cover;
-  height: 100%;
-  font-size:medium;
-}
+
 
