@@ -3,6 +3,7 @@
   box-shadow: none;
   border: none;
   margin: auto;
+  padding-bottom: 10px;
 }
 
 .top-image {
@@ -36,7 +37,10 @@ body {
   color: white;
 }
 
-.ref {
-  color: white;
+.playo-background {
+  background: url('https://playo-website.gumlet.net/playo/play-sample2.jpg?auto=compress,format') no-repeat center center fixed;
+  background-size: cover;
+  height: 100%;
+  font-size:medium;
 }
 
